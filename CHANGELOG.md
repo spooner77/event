@@ -1,4 +1,4 @@
-# Version 1.8.2 (10400)
+# Version 1.8.3 (10400)
 - fixed a bug allowing logged out users to edit events of other users;
 
 # Version 1.8.1 (10200)
